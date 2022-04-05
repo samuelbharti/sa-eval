@@ -1,0 +1,34 @@
+---
+title: "BI Functional analysis"
+output: html_document
+---
+
+### Problem Statement
+Researchers are interested in a disease affecting the kidneys. They have identified the top 25 significantly up-regulated genes (list below). They want you to identify the most important gene ontology (GO) terms related to biological processes (BP) that are enriched in this gene list. Use [Enrichr](https://maayanlab.cloud/Enrichr/) to identify enriched BP GO terms. The researchers want you to return a list of the most important terms. They define important terms as being both significantly enriched and relevant to disease.
+
+### Gene List:
+FOXC1  
+KANK1  
+EXT1  
+ROCK1  
+NPHS1  
+PRKAB2  
+INCA1  
+PLRG1  
+C6orf89  
+SIN3A  
+PTTG3P  
+KLHDC3  
+CHMP4C  
+SNX9  
+KMT2E  
+TAF10  
+TIGAR  
+RHOC  
+TTBK1  
+SIRT2  
+SPTBN1  
+PSMD3  
+MDM1  
+TP53I13  
+NTMT1
